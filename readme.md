@@ -33,7 +33,7 @@ Replace the conents of the "..\data\LuaScripts\" directory with that of the "..\
 
 **Notes**
 
-The snapview files contain many varriable arrays that are arranged in the following manner:
+The snapview files contain many variable arrays that are arranged in the following manner:
 
 *A, B,			Z, Y, X,		F;*
 
