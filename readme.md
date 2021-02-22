@@ -48,7 +48,7 @@ These variables represent the following:
 
 **Links**
 
-* [http://www.github.com/Stiggles/IL2-VR-Snapviews](www.github.com/Stiggles/IL2-VR-Snapviews) - The source of this file and the snapview files associated with it.
-* [http://www.il2sturmovik.com](www.il2sturmovik.com) - The main website of the IL2 Great Battles series.
-* [http://forum.il2sturmovik.com](forum.il2sturmovik.com) - The IL-2 Great Battles series forum.
+* [www.github.com/Stiggles/IL2-VR-Snapviews](http://www.github.com/Stiggles/IL2-VR-Snapviews) - The source of this file and the snapview files associated with it.
+* [www.il2sturmovik.com](http://www.il2sturmovik.com) - The main website of the IL2 Great Battles series.
+* [forum.il2sturmovik.com](http://forum.il2sturmovik.com) - The IL-2 Great Battles series forum.
 
