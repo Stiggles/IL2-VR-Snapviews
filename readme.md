@@ -29,7 +29,7 @@ Copy the "snapviews" folder to the "..\data\LuaScripts\" folder of the IL-2 root
 
 **Uninstallation**
 
-Replace the conents of the "..\data\LuaScripts\" directory with that of the "..data\LuaScripts\defaults" directory.
+Replace the conents of the "..\data\LuaScripts\" directory with that of the "..\data\LuaScripts\defaults" directory.
 
 **Notes**
 
