@@ -15,9 +15,9 @@ Axis:
 
 Entente:
 
-* ` `Sopwith Dolphin\*\*
-* ` `Spad XIII\*\*
-* ` `Bristol F2b (F2, F3)\*\*
+* Sopwith Dolphin\*\*
+* Spad XIII\*\*
+* Bristol F2b (F2, F3)\*\*
 
 \* Adjusted for only seating distance.
 
