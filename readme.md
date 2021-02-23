@@ -15,9 +15,9 @@ Axis:
 
 Entente:
 
-* ` `Sopwith Dolphin\*\*
-* ` `Spad XIII\*\*
-* ` `Bristol F2b (F2, F3)\*\*
+* Sopwith Dolphin\*\*
+* Spad XIII\*\*
+* Bristol F2b (F2, F3)\*\*
 
 \* Adjusted for only seating distance.
 
@@ -29,11 +29,11 @@ Copy the "snapviews" folder to the "..\data\LuaScripts\" folder of the IL-2 root
 
 **Uninstallation**
 
-Replace the conents of the "..\data\LuaScripts\" directory with that of the "..data\LuaScripts\defaults" directory.
+Replace the conents of the "..\data\LuaScripts\" directory with that of the "..\data\LuaScripts\defaults" directory.
 
 **Notes**
 
-The snapview files contain many varriable arrays that are arranged in the following manner:
+The snapview files contain many variable arrays that are arranged in the following manner:
 
 *A, B,			Z, Y, X,		F;*
 
@@ -48,7 +48,7 @@ These variables represent the following:
 
 **Links**
 
-* [www.github.com/Stiggles/IL2-VR-Snapviews](www.github.com/Stiggles/IL2-VR-Snapviews) - The source of this file and the snapview files associated with it.
-* [www.il2sturmovik.com](www.il2sturmovik.com) - The main website of the IL2 Great Battles series.
-* [forum.il2sturmovik.com](forum.il2sturmovik.com) - The IL-2 Great Battles series forum.
+* [www.github.com/Stiggles/IL2-VR-Snapviews](http://www.github.com/Stiggles/IL2-VR-Snapviews) - The source of this file and the snapview files associated with it.
+* [www.il2sturmovik.com](http://www.il2sturmovik.com) - The main website of the IL2 Great Battles series.
+* [forum.il2sturmovik.com](http://forum.il2sturmovik.com) - The IL-2 Great Battles series forum.
 
