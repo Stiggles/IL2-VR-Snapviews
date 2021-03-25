@@ -15,6 +15,10 @@ Axis:
 * Me-262 A2\*\*
 * Ju-88\*
 
+Allies:
+
+* P-47 D-22\*\*
+
 Entente:
 
 * Sopwith Dolphin\*\*
