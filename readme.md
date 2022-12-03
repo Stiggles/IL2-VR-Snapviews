@@ -18,6 +18,7 @@ Axis:
 Allies:
 
 * P-47 D-22\*\*
+* Mosquito\*\*
 
 Entente:
 
